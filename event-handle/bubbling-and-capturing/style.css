@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.outer {
+    height: 480px;
+    width: 480px;
+}
+
+.middle {
+    height: 320px;
+    width: 320px;
+}
+
+.inner {
+    height: 160px;
+    width: 160px;
+}
